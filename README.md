@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bayu Candra Yudistira and I'm a Junior Web Developer, from Indonesia.</h2>
+<h2 align="left">Hi 👋! My name is Bayu Candra Yudistira and I'm Student of Software Engginer, from Indonesia.</h2>
 
 ###
 
